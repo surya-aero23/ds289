@@ -1,0 +1,26 @@
+@ Initial time
+0.0
+
+@ Final time
+0.4
+
+@ Domain Length
+-1.0
+
+@ Stability parameter
+0.25
+
+@ Diffusion coefficient
+0.5
+
+@ Number of grid points
+32
+64
+128
+256
+
+@ Maximum iterations (Jacobi method)
+1000
+
+@ Tolerance (Jacobi method)
+0.00000001

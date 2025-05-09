@@ -1,0 +1,35 @@
+@ Use '@' for comments. Empty lines and comments are ignored. Do not change the order of inputs or the names.
+@ The value right below the commented name has to be an acceptable value. From next line, commented values are ignored.
+
+@ initial time
+0.0
+
+@ final time
+0.4
+
+@ domain length (-1.0 for domain length 2*pi)
+-1
+
+@ grid sizes
+32
+64
+128
+256
+
+@ rd values
+0.166667
+0.25
+
+@ CD scheme (2, 4 and 6)
+2
+4
+6
+
+@ Diffusion Coefficient
+0.5
+
+@ Check Point (print rate, positive integer)
+20
+
+@ No of significant digits to be written (setPrecision, positive integer)
+20

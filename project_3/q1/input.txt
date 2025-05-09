@@ -1,0 +1,24 @@
+@ Initial time
+0.0
+
+@ Final time
+0.075
+
+@ Delta time
+0.0004
+
+@ Domain size
+1.0
+
+@ N
+64
+1024
+
+@ Scheme (1 - Upwind, 2 - CD2)
+1
+2
+
+@ Diffusion coefficient
+0.001
+
+@ Last line
