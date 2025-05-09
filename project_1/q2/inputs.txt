@@ -1,0 +1,12 @@
+@ Initial time
+0.0
+@ Initial value
+1.0
+@ Final time
+2.0
+@ dt values
+0.5
+0.25
+0.125
+0.0625
+0.03125

@@ -1,0 +1,25 @@
+@ mass
+1.5
+@ spring constant
+2.0
+@ damping coefficient
+0.5
+@ driving force amplitude
+3.0
+@ driving force frequency
+1.2
+
+@ initial_time
+0.0
+@ final_time
+15.0
+
+@ initial position 
+1
+@ initial velocity
+0
+
+@ dt value start
+0.5
+@ number of dt values
+10

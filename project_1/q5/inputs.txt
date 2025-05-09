@@ -1,0 +1,15 @@
+@Domain begins at
+0
+
+@Domain ends at
+1
+
+@Grid size
+1024
+
+@Source
+100
+500
+1000
+1500
+
